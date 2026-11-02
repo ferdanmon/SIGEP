@@ -1,6 +1,6 @@
 SIGEP - Sistema de Gestión de Pedidos
 
-Sistema de escritorio hecho en Java (Swing) para el restaurante Crazy Burguer's. Nuestro sistema permite gestionar, productos y pedidos, y generar el ticket del pedido en PDF.
+Sistema de escritorio hecho en Java con Maven para el restaurante Crazy Burguer's. Nuestro sistema permite gestionar, productos y pedidos, y generar el ticket del pedido en PDF.
 
  
  Contenido del repositorio
@@ -50,6 +50,7 @@ Usuarios de prueba
 - Administrador: usuario: Gerardo Arrivillaga, contraseña Gerar12cread
 
 link de video promocional:
+https://drive.google.com/file/d/11XYFkGJbOoaga0zqVRpMngoVXjAlk2ya/view?usp=drivesdk
 
 
 Fernando Daniel Monzón Fuentes
